@@ -6,7 +6,7 @@ eureka:
     instance-id: ${spring.application.name}:${server.port}
 
 server:
-  port: 8000
+  port: 8089
 spring:
   application:
     name: invoice-service
